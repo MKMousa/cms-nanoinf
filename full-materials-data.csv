@@ -1,0 +1,996 @@
+ID,Family,Core,Additional,Surface Chemistry,Shape,Size,Charge,Dose,Toxicity
+nbi_0001,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,1.5,0,1.60E-08,0
+nbi_0001,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,1.5,0,8.00E-08,0
+nbi_0001,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,1.5,0,4.00E-07,0
+nbi_0001,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,1.5,0,2.00E-06,0
+nbi_0001,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,1.5,0,1.00E-05,0.05
+nbi_0001,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,1.5,0,5.00E-05,0.09
+nbi_0001,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,1.5,0,0.00025,0.09
+nbi_0002,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,0.8,+,1.60E-08,0.04
+nbi_0002,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,0.8,+,8.00E-08,0.16
+nbi_0002,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,0.8,+,4.00E-07,0.29
+nbi_0002,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,0.8,+,2.00E-06,0.58
+nbi_0002,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,0.8,+,1.00E-05,0.62
+nbi_0002,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,0.8,+,5.00E-05,0.83
+nbi_0002,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,0.8,+,0.00025,1
+nbi_0003,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,0.8,-,1.60E-08,0
+nbi_0003,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,0.8,-,8.00E-08,0
+nbi_0003,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,0.8,-,4.00E-07,0
+nbi_0003,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,0.8,-,2.00E-06,0.04
+nbi_0003,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,0.8,-,1.00E-05,0.07
+nbi_0003,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,0.8,-,5.00E-05,0.07
+nbi_0003,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,0.8,-,0.00025,0.15
+nbi_0004,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,0.8,0,1.60E-08,0
+nbi_0004,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,0.8,0,8.00E-08,0.04
+nbi_0004,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,0.8,0,4.00E-07,0
+nbi_0004,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,0.8,0,2.00E-06,0.04
+nbi_0004,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,0.8,0,1.00E-05,0.04
+nbi_0004,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,0.8,0,5.00E-05,0.05
+nbi_0004,metal,gold [Au],N/A,2-(2-mercaptoethoxy)ethanol [MEE],spherical,0.8,0,0.00025,0.1
+nbi_0005,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,1.60E-08,0
+nbi_0005,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,8.00E-08,0.14
+nbi_0005,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,4.00E-07,0.16
+nbi_0005,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,2.00E-06,0.16
+nbi_0005,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,1.00E-05,0.45
+nbi_0005,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,5.00E-05,0.83
+nbi_0005,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,0.00025,1
+nbi_0006,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,1.60E-08,0.02
+nbi_0006,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,8.00E-08,0.26
+nbi_0006,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,4.00E-07,0.31
+nbi_0006,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,2.00E-06,0.51
+nbi_0006,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,1.00E-05,0.72
+nbi_0006,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,5.00E-05,0.84
+nbi_0006,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,0.00025,1
+nbi_0007,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,1.60E-08,0.12
+nbi_0007,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,8.00E-08,0.33
+nbi_0007,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,4.00E-07,0.7
+nbi_0007,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,2.00E-06,0.65
+nbi_0007,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,1.00E-05,0.86
+nbi_0007,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,5.00E-05,0.91
+nbi_0007,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,1.5,+,0.00025,1
+nbi_0008,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,1.60E-08,0
+nbi_0008,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,8.00E-08,0.02
+nbi_0008,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,4.00E-07,0.05
+nbi_0008,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,2.00E-06,0.16
+nbi_0008,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,1.00E-05,0.5
+nbi_0008,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,5.00E-05,0.08
+nbi_0008,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,0.00025,0.16
+nbi_0009,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,1.60E-08,0
+nbi_0009,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,8.00E-08,0
+nbi_0009,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,4.00E-07,0.08
+nbi_0009,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,2.00E-06,0
+nbi_0009,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,1.00E-05,0
+nbi_0009,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,5.00E-05,0.08
+nbi_0009,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,0.00025,0.5
+nbi_0010,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,1.60E-08,0
+nbi_0010,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,8.00E-08,0
+nbi_0010,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,4.00E-07,0.01
+nbi_0010,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,2.00E-06,0.08
+nbi_0010,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,1.00E-05,0.01
+nbi_0010,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,5.00E-05,0
+nbi_0010,metal,gold [Au],N/A,2-mercaptoethanesulfonate [MES],spherical,1.5,-,0.00025,0.08
+nbi_0012,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,10,+,1.60E-08,0
+nbi_0012,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,10,+,8.00E-08,0
+nbi_0012,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,10,+,4.00E-07,0
+nbi_0012,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,10,+,2.00E-06,0.04
+nbi_0012,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,10,+,1.00E-05,0.08
+nbi_0012,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,10,+,5.00E-05,0.36
+nbi_0012,metal,gold [Au],N/A,"N,N,N-trimethylammoniumethanethiol [TMAT]",spherical,10,+,0.00025,0.48
+nbi_0013,metal,gold [Au],N/A,6-mercaptohexanoic acid [MHA],spherical,10,-,1.60E-08,0.08
+nbi_0013,metal,gold [Au],N/A,6-mercaptohexanoic acid [MHA],spherical,10,-,8.00E-08,0.01
+nbi_0013,metal,gold [Au],N/A,6-mercaptohexanoic acid [MHA],spherical,10,-,4.00E-07,0.02
+nbi_0013,metal,gold [Au],N/A,6-mercaptohexanoic acid [MHA],spherical,10,-,2.00E-06,0.04
+nbi_0013,metal,gold [Au],N/A,6-mercaptohexanoic acid [MHA],spherical,10,-,1.00E-05,0.06
+nbi_0013,metal,gold [Au],N/A,6-mercaptohexanoic acid [MHA],spherical,10,-,5.00E-05,0.51
+nbi_0013,metal,gold [Au],N/A,6-mercaptohexanoic acid [MHA],spherical,10,-,0.00025,0.9
+nbi_0014,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,0.8,0,1.60E-08,0
+nbi_0014,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,0.8,0,8.00E-08,0.01
+nbi_0014,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,0.8,0,4.00E-07,0
+nbi_0014,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,0.8,0,2.00E-06,0
+nbi_0014,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,0.8,0,1.00E-05,0.01
+nbi_0014,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,0.8,0,5.00E-05,0.01
+nbi_0014,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,0.8,0,0.00025,0.01
+nbi_0015,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,1.5,0,1.60E-08,0
+nbi_0015,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,1.5,0,8.00E-08,0
+nbi_0015,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,1.5,0,4.00E-07,0.01
+nbi_0015,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,1.5,0,2.00E-06,0
+nbi_0015,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,1.5,0,1.00E-05,0.01
+nbi_0015,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,1.5,0,5.00E-05,0.05
+nbi_0015,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,1.5,0,0.00025,0.09
+nbi_0016,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,10,0,1.60E-08,0
+nbi_0016,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,10,0,8.00E-08,0.01
+nbi_0016,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,10,0,4.00E-07,0.02
+nbi_0016,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,10,0,2.00E-06,0.04
+nbi_0016,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,10,0,1.00E-05,0.01
+nbi_0016,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,10,0,5.00E-05,0.04
+nbi_0016,metal,gold [Au],N/A,"2,2,2-[mercaptoethoxy(ethoxy)]ethanol [MEEE]",spherical,10,0,0.00025,0.02
+nbi_0017,metal,gold [Au],N/A,2-mercaptoethylphosphonic acid [MEPA],spherical,1.5,-,1.60E-08,0.11
+nbi_0017,metal,gold [Au],N/A,2-mercaptoethylphosphonic acid [MEPA],spherical,1.5,-,8.00E-08,0.06
+nbi_0017,metal,gold [Au],N/A,2-mercaptoethylphosphonic acid [MEPA],spherical,1.5,-,4.00E-07,0.11
+nbi_0017,metal,gold [Au],N/A,2-mercaptoethylphosphonic acid [MEPA],spherical,1.5,-,2.00E-06,0
+nbi_0017,metal,gold [Au],N/A,2-mercaptoethylphosphonic acid [MEPA],spherical,1.5,-,1.00E-05,0.06
+nbi_0017,metal,gold [Au],N/A,2-mercaptoethylphosphonic acid [MEPA],spherical,1.5,-,5.00E-05,0.1
+nbi_0017,metal,gold [Au],N/A,2-mercaptoethylphosphonic acid [MEPA],spherical,1.5,-,0.00025,0.19
+nbi_0027,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,3,+,1.60E-08,0
+nbi_0027,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,3,+,8.00E-08,0.01
+nbi_0027,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,3,+,4.00E-07,0.17
+nbi_0027,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,3,+,2.00E-06,0.53
+nbi_0027,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,3,+,1.00E-05,1
+nbi_0027,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,3,+,5.00E-05,1
+nbi_0027,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,3,+,0.00025,1
+nbi_0028,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,4,+,1.60E-08,0
+nbi_0028,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,4,+,8.00E-08,0
+nbi_0028,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,4,+,4.00E-07,0
+nbi_0028,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,4,+,2.00E-06,0
+nbi_0028,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,4,+,1.00E-05,0.7
+nbi_0028,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,4,+,5.00E-05,1
+nbi_0028,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,4,+,0.00025,1
+nbi_0029,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,5,+,1.60E-08,0
+nbi_0029,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,5,+,8.00E-08,0
+nbi_0029,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,5,+,4.00E-07,0
+nbi_0029,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,5,+,2.00E-06,0.03
+nbi_0029,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,5,+,1.00E-05,0.99
+nbi_0029,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,5,+,5.00E-05,1
+nbi_0029,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,5,+,0.00025,1
+nbi_0030,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,6,+,1.60E-08,0.13
+nbi_0030,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,6,+,8.00E-08,0.18
+nbi_0030,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,6,+,4.00E-07,0.21
+nbi_0030,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,6,+,2.00E-06,0.16
+nbi_0030,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,6,+,1.00E-05,0.28
+nbi_0030,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,6,+,5.00E-05,1
+nbi_0030,dendrimer,"1,4-diaminobutane [DAB]",N/A,amine,unknown,6,+,0.00025,1
+nbi_0031,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,unknown,6,-,1.60E-08,0
+nbi_0031,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,unknown,6,-,8.00E-08,0
+nbi_0031,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,unknown,6,-,4.00E-07,0
+nbi_0031,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,unknown,6,-,2.00E-06,0.01
+nbi_0031,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,unknown,6,-,1.00E-05,0.01
+nbi_0031,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,unknown,6,-,5.00E-05,0.05
+nbi_0031,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,unknown,6,-,0.00025,0.11
+nbi_0032,dendrimer,"1,4-diaminobutane [DAB]",N/A,amidoethanol,unknown,6,0,1.60E-08,0
+nbi_0032,dendrimer,"1,4-diaminobutane [DAB]",N/A,amidoethanol,unknown,6,0,8.00E-08,0.04
+nbi_0032,dendrimer,"1,4-diaminobutane [DAB]",N/A,amidoethanol,unknown,6,0,4.00E-07,0.01
+nbi_0032,dendrimer,"1,4-diaminobutane [DAB]",N/A,amidoethanol,unknown,6,0,2.00E-06,0.1
+nbi_0032,dendrimer,"1,4-diaminobutane [DAB]",N/A,amidoethanol,unknown,6,0,1.00E-05,0.13
+nbi_0032,dendrimer,"1,4-diaminobutane [DAB]",N/A,amidoethanol,unknown,6,0,5.00E-05,0.12
+nbi_0032,dendrimer,"1,4-diaminobutane [DAB]",N/A,amidoethanol,unknown,6,0,0.00025,0.27
+nbi_0035,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,25,0,1.60E-08,0.08
+nbi_0035,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,25,0,8.00E-08,0.09
+nbi_0035,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,25,0,4.00E-07,0.08
+nbi_0035,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,25,0,2.00E-06,0.1
+nbi_0035,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,25,0,1.00E-05,0.08
+nbi_0035,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,25,0,5.00E-05,0
+nbi_0035,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,25,0,0.00025,0
+nbi_0036,metal oxide,titanium dioxide [TiO2],N/A,unknown,spherical,30,0,1.60E-08,0.04
+nbi_0036,metal oxide,titanium dioxide [TiO2],N/A,unknown,spherical,30,0,8.00E-08,0.04
+nbi_0036,metal oxide,titanium dioxide [TiO2],N/A,unknown,spherical,30,0,4.00E-07,0.08
+nbi_0036,metal oxide,titanium dioxide [TiO2],N/A,unknown,spherical,30,0,2.00E-06,0
+nbi_0036,metal oxide,titanium dioxide [TiO2],N/A,unknown,spherical,30,0,1.00E-05,0.01
+nbi_0036,metal oxide,titanium dioxide [TiO2],N/A,unknown,spherical,30,0,5.00E-05,0.17
+nbi_0036,metal oxide,titanium dioxide [TiO2],N/A,unknown,spherical,30,0,0.00025,0.17
+nbi_0037,metal oxide,zirconium oxide [O2Zr],N/A,unknown,spherical,49.5,0,1.60E-08,0.09
+nbi_0037,metal oxide,zirconium oxide [O2Zr],N/A,unknown,spherical,49.5,0,8.00E-08,0.12
+nbi_0037,metal oxide,zirconium oxide [O2Zr],N/A,unknown,spherical,49.5,0,4.00E-07,0.09
+nbi_0037,metal oxide,zirconium oxide [O2Zr],N/A,unknown,spherical,49.5,0,2.00E-06,0.16
+nbi_0037,metal oxide,zirconium oxide [O2Zr],N/A,unknown,spherical,49.5,0,1.00E-05,0.08
+nbi_0037,metal oxide,zirconium oxide [O2Zr],N/A,unknown,spherical,49.5,0,5.00E-05,0.01
+nbi_0037,metal oxide,zirconium oxide [O2Zr],N/A,unknown,spherical,49.5,0,0.00025,0.25
+nbi_0038,metal oxide,cerium oxide [CeO2],N/A,unknown,spherical,12.5,0,1.60E-08,0.16
+nbi_0038,metal oxide,cerium oxide [CeO2],N/A,unknown,spherical,12.5,0,8.00E-08,0.08
+nbi_0038,metal oxide,cerium oxide [CeO2],N/A,unknown,spherical,12.5,0,4.00E-07,0.12
+nbi_0038,metal oxide,cerium oxide [CeO2],N/A,unknown,spherical,12.5,0,2.00E-06,0.24
+nbi_0038,metal oxide,cerium oxide [CeO2],N/A,unknown,spherical,12.5,0,1.00E-05,0.2
+nbi_0038,metal oxide,cerium oxide [CeO2],N/A,unknown,spherical,12.5,0,5.00E-05,0.23
+nbi_0038,metal oxide,cerium oxide [CeO2],N/A,unknown,spherical,12.5,0,0.00025,0.24
+nbi_0039,metal oxide,gadolinium oxide [Gd2O3],N/A,unknown,cylindrical,24.5,0,1.60E-08,0
+nbi_0039,metal oxide,gadolinium oxide [Gd2O3],N/A,unknown,cylindrical,24.5,0,8.00E-08,0
+nbi_0039,metal oxide,gadolinium oxide [Gd2O3],N/A,unknown,cylindrical,24.5,0,4.00E-07,0
+nbi_0039,metal oxide,gadolinium oxide [Gd2O3],N/A,unknown,cylindrical,24.5,0,2.00E-06,0.06
+nbi_0039,metal oxide,gadolinium oxide [Gd2O3],N/A,unknown,cylindrical,24.5,0,1.00E-05,0.09
+nbi_0039,metal oxide,gadolinium oxide [Gd2O3],N/A,unknown,cylindrical,24.5,0,5.00E-05,0.09
+nbi_0039,metal oxide,gadolinium oxide [Gd2O3],N/A,unknown,cylindrical,24.5,0,0.00025,0.09
+nbi_0040,metal oxide,dysprosium oxide [Dy2O3],N/A,unknown,irregular-angular,24.5,0,1.60E-08,0
+nbi_0040,metal oxide,dysprosium oxide [Dy2O3],N/A,unknown,irregular-angular,24.5,0,8.00E-08,0.12
+nbi_0040,metal oxide,dysprosium oxide [Dy2O3],N/A,unknown,irregular-angular,24.5,0,4.00E-07,0.05
+nbi_0040,metal oxide,dysprosium oxide [Dy2O3],N/A,unknown,irregular-angular,24.5,0,2.00E-06,0.13
+nbi_0040,metal oxide,dysprosium oxide [Dy2O3],N/A,unknown,irregular-angular,24.5,0,1.00E-05,0.05
+nbi_0040,metal oxide,dysprosium oxide [Dy2O3],N/A,unknown,irregular-angular,24.5,0,5.00E-05,0.09
+nbi_0040,metal oxide,dysprosium oxide [Dy2O3],N/A,unknown,irregular-angular,24.5,0,0.00025,0.66
+nbi_0041,metal oxide,yttrium oxide [Y2O3],N/A,unknown,irregular-angular,24.5,0,1.60E-08,0.01
+nbi_0041,metal oxide,yttrium oxide [Y2O3],N/A,unknown,irregular-angular,24.5,0,8.00E-08,0.14
+nbi_0041,metal oxide,yttrium oxide [Y2O3],N/A,unknown,irregular-angular,24.5,0,4.00E-07,0.15
+nbi_0041,metal oxide,yttrium oxide [Y2O3],N/A,unknown,irregular-angular,24.5,0,2.00E-06,0.15
+nbi_0041,metal oxide,yttrium oxide [Y2O3],N/A,unknown,irregular-angular,24.5,0,1.00E-05,0.11
+nbi_0041,metal oxide,yttrium oxide [Y2O3],N/A,unknown,irregular-angular,24.5,0,5.00E-05,0.3
+nbi_0041,metal oxide,yttrium oxide [Y2O3],N/A,unknown,irregular-angular,24.5,0,0.00025,0.24
+nbi_0042,metal oxide,holmium oxide [Ho2O3],N/A,unknown,irregular-angular,24.5,0,1.60E-08,0.12
+nbi_0042,metal oxide,holmium oxide [Ho2O3],N/A,unknown,irregular-angular,24.5,0,8.00E-08,0.25
+nbi_0042,metal oxide,holmium oxide [Ho2O3],N/A,unknown,irregular-angular,24.5,0,4.00E-07,0.21
+nbi_0042,metal oxide,holmium oxide [Ho2O3],N/A,unknown,irregular-angular,24.5,0,2.00E-06,0.22
+nbi_0042,metal oxide,holmium oxide [Ho2O3],N/A,unknown,irregular-angular,24.5,0,1.00E-05,0.21
+nbi_0042,metal oxide,holmium oxide [Ho2O3],N/A,unknown,irregular-angular,24.5,0,5.00E-05,0.43
+nbi_0042,metal oxide,holmium oxide [Ho2O3],N/A,unknown,irregular-angular,24.5,0,0.00025,0.97
+nbi_0043,metal oxide,samarium oxide [Sm2O3],N/A,unknown,irregular-angular,24.5,0,1.60E-08,0.12
+nbi_0043,metal oxide,samarium oxide [Sm2O3],N/A,unknown,irregular-angular,24.5,0,8.00E-08,0.12
+nbi_0043,metal oxide,samarium oxide [Sm2O3],N/A,unknown,irregular-angular,24.5,0,4.00E-07,0.1
+nbi_0043,metal oxide,samarium oxide [Sm2O3],N/A,unknown,irregular-angular,24.5,0,2.00E-06,0.1
+nbi_0043,metal oxide,samarium oxide [Sm2O3],N/A,unknown,irregular-angular,24.5,0,1.00E-05,0.21
+nbi_0043,metal oxide,samarium oxide [Sm2O3],N/A,unknown,irregular-angular,24.5,0,5.00E-05,0.53
+nbi_0043,metal oxide,samarium oxide [Sm2O3],N/A,unknown,irregular-angular,24.5,0,0.00025,0.96
+nbi_0044,metal oxide,aluminum oxide [Al2O3],silicon dioxide [SiO2],unknown,irregular-angular,24.5,0,1.60E-08,0.04
+nbi_0044,metal oxide,aluminum oxide [Al2O3],silicon dioxide [SiO2],unknown,irregular-angular,24.5,0,8.00E-08,0
+nbi_0044,metal oxide,aluminum oxide [Al2O3],silicon dioxide [SiO2],unknown,irregular-angular,24.5,0,4.00E-07,0.04
+nbi_0044,metal oxide,aluminum oxide [Al2O3],silicon dioxide [SiO2],unknown,irregular-angular,24.5,0,2.00E-06,0
+nbi_0044,metal oxide,aluminum oxide [Al2O3],silicon dioxide [SiO2],unknown,irregular-angular,24.5,0,1.00E-05,0.12
+nbi_0044,metal oxide,aluminum oxide [Al2O3],silicon dioxide [SiO2],unknown,irregular-angular,24.5,0,5.00E-05,0.17
+nbi_0044,metal oxide,aluminum oxide [Al2O3],silicon dioxide [SiO2],unknown,irregular-angular,24.5,0,0.00025,0.3
+nbi_0045,metal oxide,erbium oxide [Er2O3],N/A,unknown,spherical,24.5,0,1.60E-08,0
+nbi_0045,metal oxide,erbium oxide [Er2O3],N/A,unknown,spherical,24.5,0,8.00E-08,0.12
+nbi_0045,metal oxide,erbium oxide [Er2O3],N/A,unknown,spherical,24.5,0,4.00E-07,0.09
+nbi_0045,metal oxide,erbium oxide [Er2O3],N/A,unknown,spherical,24.5,0,2.00E-06,0.11
+nbi_0045,metal oxide,erbium oxide [Er2O3],N/A,unknown,spherical,24.5,0,1.00E-05,0.2
+nbi_0045,metal oxide,erbium oxide [Er2O3],N/A,unknown,spherical,24.5,0,5.00E-05,0.77
+nbi_0045,metal oxide,erbium oxide [Er2O3],N/A,unknown,spherical,24.5,0,0.00025,0.84
+nbi_0046,polymeric,polystyrene,N/A,unknown,spherical,20,0,1.30E-08,0
+nbi_0046,polymeric,polystyrene,N/A,unknown,spherical,20,0,6.40E-08,0
+nbi_0046,polymeric,polystyrene,N/A,unknown,spherical,20,0,3.20E-07,0
+nbi_0046,polymeric,polystyrene,N/A,unknown,spherical,20,0,1.00E-06,0
+nbi_0046,polymeric,polystyrene,N/A,unknown,spherical,20,0,8.00E-06,0
+nbi_0046,polymeric,polystyrene,N/A,unknown,spherical,20,0,4.00E-05,0.08
+nbi_0046,polymeric,polystyrene,N/A,unknown,spherical,20,0,0.0002,0.16
+nbi_0047,polymeric,polystyrene,N/A,unknown,spherical,20,0,1.30E-08,0
+nbi_0047,polymeric,polystyrene,N/A,unknown,spherical,20,0,6.40E-08,0
+nbi_0047,polymeric,polystyrene,N/A,unknown,spherical,20,0,3.20E-07,0
+nbi_0047,polymeric,polystyrene,N/A,unknown,spherical,20,0,1.00E-06,0.16
+nbi_0047,polymeric,polystyrene,N/A,unknown,spherical,20,0,8.00E-06,0.16
+nbi_0047,polymeric,polystyrene,N/A,unknown,spherical,20,0,4.00E-05,0.24
+nbi_0047,polymeric,polystyrene,N/A,unknown,spherical,20,0,0.0002,0.33
+nbi_0048,polymeric,polystyrene,N/A,aldehyde-sulfate,spherical,20,0,1.30E-08,0
+nbi_0048,polymeric,polystyrene,N/A,aldehyde-sulfate,spherical,20,0,6.40E-08,0
+nbi_0048,polymeric,polystyrene,N/A,aldehyde-sulfate,spherical,20,0,3.20E-07,0
+nbi_0048,polymeric,polystyrene,N/A,aldehyde-sulfate,spherical,20,0,1.00E-06,0.16
+nbi_0048,polymeric,polystyrene,N/A,aldehyde-sulfate,spherical,20,0,8.00E-06,0.16
+nbi_0048,polymeric,polystyrene,N/A,aldehyde-sulfate,spherical,20,0,4.00E-05,0.33
+nbi_0048,polymeric,polystyrene,N/A,aldehyde-sulfate,spherical,20,0,0.0002,0.33
+nbi_0072,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,1.60E-08,0
+nbi_0072,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,8.00E-08,0
+nbi_0072,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,4.00E-07,0.05
+nbi_0072,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,2.00E-06,0.14
+nbi_0072,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,1.00E-05,0.26
+nbi_0072,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,5.00E-05,0.54
+nbi_0072,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,0.00025,1
+nbi_0073,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,1.60E-08,0
+nbi_0073,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,8.00E-08,0
+nbi_0073,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,4.00E-07,0.03
+nbi_0073,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,2.00E-06,0.14
+nbi_0073,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,1.00E-05,0.39
+nbi_0073,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,5.00E-05,0.47
+nbi_0073,metal,gold [Au],N/A,phosphatidylcholine,rod,7,0,0.00025,1
+nbi_0074,metal,gold [Au],N/A,phosphatidylcholine,rod,22,0,1.60E-08,0
+nbi_0074,metal,gold [Au],N/A,phosphatidylcholine,rod,22,0,8.00E-08,0
+nbi_0074,metal,gold [Au],N/A,phosphatidylcholine,rod,22,0,4.00E-07,0.2
+nbi_0074,metal,gold [Au],N/A,phosphatidylcholine,rod,22,0,2.00E-06,0.31
+nbi_0074,metal,gold [Au],N/A,phosphatidylcholine,rod,22,0,1.00E-05,0.46
+nbi_0074,metal,gold [Au],N/A,phosphatidylcholine,rod,22,0,5.00E-05,0.87
+nbi_0074,metal,gold [Au],N/A,phosphatidylcholine,rod,22,0,0.00025,1
+nbi_0075,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,1.60E-08,0
+nbi_0075,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,8.00E-08,0.05
+nbi_0075,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,4.00E-07,0.08
+nbi_0075,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,2.00E-06,0.22
+nbi_0075,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,1.00E-05,0.62
+nbi_0075,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,5.00E-05,0.66
+nbi_0075,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,0.00025,0.91
+nbi_0076,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,1.60E-08,0.04
+nbi_0076,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,8.00E-08,0.1
+nbi_0076,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,4.00E-07,0.2
+nbi_0076,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,2.00E-06,0.28
+nbi_0076,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,1.00E-05,0.51
+nbi_0076,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,5.00E-05,0.55
+nbi_0076,metal,gold [Au],N/A,phosphatidylcholine,rod,14,0,0.00025,0.9
+nbi_0077,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,1.60E-08,0.14
+nbi_0077,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,8.00E-08,0.08
+nbi_0077,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,4.00E-07,0
+nbi_0077,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,2.00E-06,0.18
+nbi_0077,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,1.00E-05,0.21
+nbi_0077,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,5.00E-05,0.08
+nbi_0077,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,0.00025,0.05
+nbi_0078,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,1.60E-08,0.25
+nbi_0078,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,8.00E-08,0.12
+nbi_0078,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,4.00E-07,0.25
+nbi_0078,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,2.00E-06,0.08
+nbi_0078,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,1.00E-05,0.08
+nbi_0078,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,5.00E-05,0.12
+nbi_0078,cellulose,cellulose,N/A,unknown,fibrous,52.5,0,0.00025,0.12
+nbi_0085,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,62,0,1.60E-08,0.21
+nbi_0085,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,62,0,8.00E-08,0.33
+nbi_0085,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,62,0,4.00E-07,0.08
+nbi_0085,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,62,0,2.00E-06,0.17
+nbi_0085,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,62,0,1.00E-05,0.08
+nbi_0085,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,62,0,5.00E-05,0.21
+nbi_0085,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,62,0,0.00025,0.08
+nbi_0086,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,26,0,1.60E-08,0.21
+nbi_0086,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,26,0,8.00E-08,0.29
+nbi_0086,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,26,0,4.00E-07,0.08
+nbi_0086,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,26,0,2.00E-06,0.25
+nbi_0086,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,26,0,1.00E-05,0.33
+nbi_0086,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,26,0,5.00E-05,0.42
+nbi_0086,metal oxide,zinc oxide [ZnO],N/A,oleic acid,unknown,26,0,0.00025,0.46
+nbi_0087,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,18,0,1.60E-08,0.17
+nbi_0087,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,18,0,8.00E-08,0.33
+nbi_0087,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,18,0,4.00E-07,0.21
+nbi_0087,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,18,0,2.00E-06,0.17
+nbi_0087,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,18,0,1.00E-05,0.12
+nbi_0087,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,18,0,5.00E-05,0.25
+nbi_0087,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,18,0,0.00025,0.29
+nbi_0088,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,26,0,1.60E-08,0.17
+nbi_0088,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,26,0,8.00E-08,0.08
+nbi_0088,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,26,0,4.00E-07,0.21
+nbi_0088,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,26,0,2.00E-06,0.2
+nbi_0088,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,26,0,1.00E-05,0.13
+nbi_0088,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,26,0,5.00E-05,0.12
+nbi_0088,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,26,0,0.00025,0.29
+nbi_0089,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,62,0,1.60E-08,0.16
+nbi_0089,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,62,0,8.00E-08,0.17
+nbi_0089,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,62,0,4.00E-07,0.29
+nbi_0089,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,62,0,2.00E-06,0.17
+nbi_0089,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,62,0,1.00E-05,0.39
+nbi_0089,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,62,0,5.00E-05,0.29
+nbi_0089,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,62,0,0.00025,0.33
+nbi_0090,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,26,0,1.60E-08,0.17
+nbi_0090,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,26,0,8.00E-08,0.21
+nbi_0090,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,26,0,4.00E-07,0.12
+nbi_0090,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,26,0,2.00E-06,0.25
+nbi_0090,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,26,0,1.00E-05,0.12
+nbi_0090,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,26,0,5.00E-05,0.38
+nbi_0090,metal oxide,zinc oxide [ZnO],N/A,octanoic acid,unknown,26,0,0.00025,0.29
+nbi_0091,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,62,0,1.60E-08,0
+nbi_0091,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,62,0,8.00E-08,0.04
+nbi_0091,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,62,0,4.00E-07,0.08
+nbi_0091,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,62,0,2.00E-06,0.17
+nbi_0091,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,62,0,1.00E-05,0.04
+nbi_0091,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,62,0,5.00E-05,0.04
+nbi_0091,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,62,0,0.00025,0.12
+nbi_0092,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,26,0,1.60E-08,0
+nbi_0092,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,26,0,8.00E-08,0
+nbi_0092,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,26,0,4.00E-07,0
+nbi_0092,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,26,0,2.00E-06,0.04
+nbi_0092,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,26,0,1.00E-05,0.07
+nbi_0092,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,26,0,5.00E-05,0.04
+nbi_0092,metal oxide,zinc oxide [ZnO],N/A,para-nitrobenzoic acid,unknown,26,0,0.00025,0.05
+nbi_0093,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,62,0,1.60E-08,0.11
+nbi_0093,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,62,0,8.00E-08,0
+nbi_0093,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,62,0,4.00E-07,0.12
+nbi_0093,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,62,0,2.00E-06,0.29
+nbi_0093,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,62,0,1.00E-05,0.29
+nbi_0093,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,62,0,5.00E-05,0.25
+nbi_0093,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,62,0,0.00025,0.29
+nbi_0094,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,26,0,1.60E-08,0.03
+nbi_0094,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,26,0,8.00E-08,0.04
+nbi_0094,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,26,0,4.00E-07,0.08
+nbi_0094,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,26,0,2.00E-06,0
+nbi_0094,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,26,0,1.00E-05,0
+nbi_0094,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,26,0,5.00E-05,0
+nbi_0094,metal oxide,zinc oxide [ZnO],N/A,cyclohexane carboxilic acid,unknown,26,0,0.00025,0.13
+nbi_0095,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,62,0,1.60E-08,0.29
+nbi_0095,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,62,0,8.00E-08,0.16
+nbi_0095,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,62,0,4.00E-07,0.22
+nbi_0095,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,62,0,2.00E-06,0.08
+nbi_0095,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,62,0,1.00E-05,0.26
+nbi_0095,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,62,0,5.00E-05,0.17
+nbi_0095,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,62,0,0.00025,0.17
+nbi_0096,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,26,0,1.60E-08,0.16
+nbi_0096,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,26,0,8.00E-08,0.29
+nbi_0096,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,26,0,4.00E-07,0.08
+nbi_0096,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,26,0,2.00E-06,0.33
+nbi_0096,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,26,0,1.00E-05,0.08
+nbi_0096,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,26,0,5.00E-05,0.21
+nbi_0096,metal oxide,zinc oxide [ZnO],N/A,benzoic acid,unknown,26,0,0.00025,0.2
+nbi_0097,metal oxide,silicon dioxide [SiO2],N/A,unknown,unknown,54,+,1.60E-08,0.29
+nbi_0097,metal oxide,silicon dioxide [SiO2],N/A,unknown,unknown,54,+,8.00E-08,0.21
+nbi_0097,metal oxide,silicon dioxide [SiO2],N/A,unknown,unknown,54,+,4.00E-07,0.17
+nbi_0097,metal oxide,silicon dioxide [SiO2],N/A,unknown,unknown,54,+,2.00E-06,0.13
+nbi_0097,metal oxide,silicon dioxide [SiO2],N/A,unknown,unknown,54,+,1.00E-05,0.18
+nbi_0097,metal oxide,silicon dioxide [SiO2],N/A,unknown,unknown,54,+,5.00E-05,0.14
+nbi_0097,metal oxide,silicon dioxide [SiO2],N/A,unknown,unknown,54,+,0.00025,0.21
+nbi_0105,metal,silver [Ag],N/A,citrate,spherical,10.1,0,1.40E-08,0.08
+nbi_0105,metal,silver [Ag],N/A,citrate,spherical,10.1,0,7.20E-08,0.05
+nbi_0105,metal,silver [Ag],N/A,citrate,spherical,10.1,0,3.60E-07,0.2
+nbi_0105,metal,silver [Ag],N/A,citrate,spherical,10.1,0,1.00E-06,0.1
+nbi_0105,metal,silver [Ag],N/A,citrate,spherical,10.1,0,9.00E-06,0.54
+nbi_0105,metal,silver [Ag],N/A,citrate,spherical,10.1,0,4.50E-05,0.85
+nbi_0105,metal,silver [Ag],N/A,citrate,spherical,10.1,0,0.000225,1
+nbi_0106,metal,silver [Ag],gold [Au],phosphate,spherical,20.7,0,1.60E-08,0.17
+nbi_0106,metal,silver [Ag],gold [Au],phosphate,spherical,20.7,0,8.00E-08,0.13
+nbi_0106,metal,silver [Ag],gold [Au],phosphate,spherical,20.7,0,4.00E-07,0.08
+nbi_0106,metal,silver [Ag],gold [Au],phosphate,spherical,20.7,0,2.00E-06,0.08
+nbi_0106,metal,silver [Ag],gold [Au],phosphate,spherical,20.7,0,1.00E-05,0.5
+nbi_0106,metal,silver [Ag],gold [Au],phosphate,spherical,20.7,0,5.00E-05,0.82
+nbi_0106,metal,silver [Ag],gold [Au],phosphate,spherical,20.7,0,0.00025,0.92
+nbi_0107,metal,silver [Ag],gold [Au],phosphate,spherical,33.15,0,1.60E-08,0
+nbi_0107,metal,silver [Ag],gold [Au],phosphate,spherical,33.15,0,8.00E-08,0.2
+nbi_0107,metal,silver [Ag],gold [Au],phosphate,spherical,33.15,0,4.00E-07,0
+nbi_0107,metal,silver [Ag],gold [Au],phosphate,spherical,33.15,0,2.00E-06,0.08
+nbi_0107,metal,silver [Ag],gold [Au],phosphate,spherical,33.15,0,1.00E-05,0.13
+nbi_0107,metal,silver [Ag],gold [Au],phosphate,spherical,33.15,0,5.00E-05,0.14
+nbi_0107,metal,silver [Ag],gold [Au],phosphate,spherical,33.15,0,0.00025,1
+nbi_0108,metal,silver [Ag],gold [Au],phosphate,spherical,40.8,0,1.60E-08,0.27
+nbi_0108,metal,silver [Ag],gold [Au],phosphate,spherical,40.8,0,8.00E-08,0.09
+nbi_0108,metal,silver [Ag],gold [Au],phosphate,spherical,40.8,0,4.00E-07,0.1
+nbi_0108,metal,silver [Ag],gold [Au],phosphate,spherical,40.8,0,2.00E-06,0.37
+nbi_0108,metal,silver [Ag],gold [Au],phosphate,spherical,40.8,0,1.00E-05,0.25
+nbi_0108,metal,silver [Ag],gold [Au],phosphate,spherical,40.8,0,5.00E-05,0.47
+nbi_0108,metal,silver [Ag],gold [Au],phosphate,spherical,40.8,0,0.00025,1
+nbi_0109,metal,silver [Ag],gold [Au],phosphate,spherical,52.95,0,1.60E-08,0.26
+nbi_0109,metal,silver [Ag],gold [Au],phosphate,spherical,52.95,0,8.00E-08,0.14
+nbi_0109,metal,silver [Ag],gold [Au],phosphate,spherical,52.95,0,4.00E-07,0.01
+nbi_0109,metal,silver [Ag],gold [Au],phosphate,spherical,52.95,0,2.00E-06,0.12
+nbi_0109,metal,silver [Ag],gold [Au],phosphate,spherical,52.95,0,1.00E-05,0.14
+nbi_0109,metal,silver [Ag],gold [Au],phosphate,spherical,52.95,0,5.00E-05,0.74
+nbi_0109,metal,silver [Ag],gold [Au],phosphate,spherical,52.95,0,0.00025,1
+nbi_0110,metal,silver [Ag],gold [Au],phosphate,spherical,61.45,0,1.60E-08,0.03
+nbi_0110,metal,silver [Ag],gold [Au],phosphate,spherical,61.45,0,8.00E-08,0.16
+nbi_0110,metal,silver [Ag],gold [Au],phosphate,spherical,61.45,0,4.00E-07,0
+nbi_0110,metal,silver [Ag],gold [Au],phosphate,spherical,61.45,0,2.00E-06,0.11
+nbi_0110,metal,silver [Ag],gold [Au],phosphate,spherical,61.45,0,1.00E-05,0.28
+nbi_0110,metal,silver [Ag],gold [Au],phosphate,spherical,61.45,0,5.00E-05,0.47
+nbi_0110,metal,silver [Ag],gold [Au],phosphate,spherical,61.45,0,0.00025,1
+nbi_0111,metal,silver [Ag],gold [Au],phosphate,spherical,67.9,0,1.40E-08,0.03
+nbi_0111,metal,silver [Ag],gold [Au],phosphate,spherical,67.9,0,6.80E-08,0.16
+nbi_0111,metal,silver [Ag],gold [Au],phosphate,spherical,67.9,0,3.40E-07,0.14
+nbi_0111,metal,silver [Ag],gold [Au],phosphate,spherical,67.9,0,1.00E-06,0.17
+nbi_0111,metal,silver [Ag],gold [Au],phosphate,spherical,67.9,0,8.00E-06,0.41
+nbi_0111,metal,silver [Ag],gold [Au],phosphate,spherical,67.9,0,4.20E-05,0.74
+nbi_0111,metal,silver [Ag],gold [Au],phosphate,spherical,67.9,0,0.000212,0.99
+nbi_0112,metal,silver [Ag],gold [Au],phosphate,spherical,70.25,0,1.60E-08,0.03
+nbi_0112,metal,silver [Ag],gold [Au],phosphate,spherical,70.25,0,8.00E-08,0.02
+nbi_0112,metal,silver [Ag],gold [Au],phosphate,spherical,70.25,0,4.00E-07,0
+nbi_0112,metal,silver [Ag],gold [Au],phosphate,spherical,70.25,0,2.00E-06,0.16
+nbi_0112,metal,silver [Ag],gold [Au],phosphate,spherical,70.25,0,1.00E-05,0.24
+nbi_0112,metal,silver [Ag],gold [Au],phosphate,spherical,70.25,0,5.00E-05,0.45
+nbi_0112,metal,silver [Ag],gold [Au],phosphate,spherical,70.25,0,0.00025,1
+nbi_0113,metal,silver [Ag],gold [Au],phosphate,spherical,92.25,0,1.40E-08,0.16
+nbi_0113,metal,silver [Ag],gold [Au],phosphate,spherical,92.25,0,6.90E-08,0.09
+nbi_0113,metal,silver [Ag],gold [Au],phosphate,spherical,92.25,0,3.40E-07,0.08
+nbi_0113,metal,silver [Ag],gold [Au],phosphate,spherical,92.25,0,1.00E-06,0.08
+nbi_0113,metal,silver [Ag],gold [Au],phosphate,spherical,92.25,0,8.00E-06,0.01
+nbi_0113,metal,silver [Ag],gold [Au],phosphate,spherical,92.25,0,4.30E-05,0.75
+nbi_0113,metal,silver [Ag],gold [Au],phosphate,spherical,92.25,0,0.000215,1
+nbi_0114,metal,silver [Ag],gold [Au],phosphate,spherical,101.05,0,1.60E-08,0
+nbi_0114,metal,silver [Ag],gold [Au],phosphate,spherical,101.05,0,8.00E-08,0.01
+nbi_0114,metal,silver [Ag],gold [Au],phosphate,spherical,101.05,0,4.00E-07,0.08
+nbi_0114,metal,silver [Ag],gold [Au],phosphate,spherical,101.05,0,2.00E-06,0.08
+nbi_0114,metal,silver [Ag],gold [Au],phosphate,spherical,101.05,0,1.00E-05,0
+nbi_0114,metal,silver [Ag],gold [Au],phosphate,spherical,101.05,0,5.00E-05,0.1
+nbi_0114,metal,silver [Ag],gold [Au],phosphate,spherical,101.05,0,0.00025,1
+nbi_0115,metal,silver [Ag],gold [Au],phosphate,spherical,122.1,0,1.60E-08,0.09
+nbi_0115,metal,silver [Ag],gold [Au],phosphate,spherical,122.1,0,8.00E-08,0.09
+nbi_0115,metal,silver [Ag],gold [Au],phosphate,spherical,122.1,0,4.00E-07,0
+nbi_0115,metal,silver [Ag],gold [Au],phosphate,spherical,122.1,0,2.00E-06,0.25
+nbi_0115,metal,silver [Ag],gold [Au],phosphate,spherical,122.1,0,1.00E-05,0.08
+nbi_0115,metal,silver [Ag],gold [Au],phosphate,spherical,122.1,0,5.00E-05,0.09
+nbi_0115,metal,silver [Ag],gold [Au],phosphate,spherical,122.1,0,0.00025,1
+nbi_0127,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.7,-,1.60E-08,0.12
+nbi_0127,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.7,-,8.00E-08,0.21
+nbi_0127,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.7,-,4.00E-07,0.25
+nbi_0127,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.7,-,2.00E-06,0.25
+nbi_0127,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.7,-,1.00E-05,0.38
+nbi_0127,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.7,-,5.00E-05,0.33
+nbi_0127,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.7,-,0.00012,0.08
+nbi_0128,metal oxide,iron oxide [Fe2O3],N/A,unknown,unknown,110,-,1.60E-08,0.18
+nbi_0128,metal oxide,iron oxide [Fe2O3],N/A,unknown,unknown,110,-,8.00E-08,0.17
+nbi_0128,metal oxide,iron oxide [Fe2O3],N/A,unknown,unknown,110,-,4.00E-07,0.16
+nbi_0128,metal oxide,iron oxide [Fe2O3],N/A,unknown,unknown,110,-,2.00E-06,0.2
+nbi_0128,metal oxide,iron oxide [Fe2O3],N/A,unknown,unknown,110,-,1.00E-05,0.12
+nbi_0128,metal oxide,iron oxide [Fe2O3],N/A,unknown,unknown,110,-,5.00E-05,0.26
+nbi_0128,metal oxide,iron oxide [Fe2O3],N/A,unknown,unknown,110,-,0.00022,0.13
+nbi_0129,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4,+,1.60E-08,0
+nbi_0129,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4,+,8.00E-08,0
+nbi_0129,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4,+,4.00E-07,0.07
+nbi_0129,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4,+,2.00E-06,0
+nbi_0129,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4,+,1.00E-05,0
+nbi_0129,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4,+,5.00E-05,0.08
+nbi_0129,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4,+,0.0002,0.19
+nbi_0130,metal oxide,zinc oxide [ZnO],N/A,ferric oxide,unknown,4,0,1.60E-08,0.04
+nbi_0130,metal oxide,zinc oxide [ZnO],N/A,ferric oxide,unknown,4,0,8.00E-08,0
+nbi_0130,metal oxide,zinc oxide [ZnO],N/A,ferric oxide,unknown,4,0,4.00E-07,0
+nbi_0130,metal oxide,zinc oxide [ZnO],N/A,ferric oxide,unknown,4,0,2.00E-06,0
+nbi_0130,metal oxide,zinc oxide [ZnO],N/A,ferric oxide,unknown,4,0,1.00E-05,0
+nbi_0130,metal oxide,zinc oxide [ZnO],N/A,ferric oxide,unknown,4,0,5.00E-05,0.05
+nbi_0130,metal oxide,zinc oxide [ZnO],N/A,ferric oxide,unknown,4,0,1.00E-04,0.01
+nbi_0132,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,1.60E-08,0.08
+nbi_0132,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,8.00E-08,0.05
+nbi_0132,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,4.00E-07,0.16
+nbi_0132,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,2.00E-06,0.08
+nbi_0132,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,1.00E-05,0.29
+nbi_0132,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,5.00E-05,0.36
+nbi_0132,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,6.00E-05,0.98
+nbi_0133,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,1.60E-08,0
+nbi_0133,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,8.00E-08,0
+nbi_0133,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,4.00E-07,0.02
+nbi_0133,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,2.00E-06,0.03
+nbi_0133,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,1.00E-05,0.1
+nbi_0133,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,5.00E-05,0.68
+nbi_0133,semiconductor,lead sulfide [PbS],N/A,"3-mercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,6.00E-05,1
+nbi_0134,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,1.60E-08,0.21
+nbi_0134,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,8.00E-08,0.13
+nbi_0134,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,4.00E-07,0.17
+nbi_0134,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,2.00E-06,0.05
+nbi_0134,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,1.00E-05,0.05
+nbi_0134,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,5.00E-05,0.1
+nbi_0134,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,0.000125,0.05
+nbi_0135,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,1.60E-08,0
+nbi_0135,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,8.00E-08,0.04
+nbi_0135,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,4.00E-07,0
+nbi_0135,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,2.00E-06,0.08
+nbi_0135,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,1.00E-05,0.08
+nbi_0135,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,5.00E-05,0.13
+nbi_0135,semiconductor,lead sulfide [PbS],N/A,"2,3-dimercaptopropanesulfonic acid, sodium salt",spherical,3.2,0,0.000125,0.05
+nbi_0136,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,14.6,+,1.60E-08,0.05
+nbi_0136,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,14.6,+,8.00E-08,0.29
+nbi_0136,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,14.6,+,4.00E-07,0.12
+nbi_0136,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,14.6,+,2.00E-06,0.12
+nbi_0136,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,14.6,+,1.00E-05,0.04
+nbi_0136,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,14.6,+,5.00E-05,0.05
+nbi_0136,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,14.6,+,0.00025,0.25
+nbi_0137,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,33.6,+,1.60E-08,0.16
+nbi_0137,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,33.6,+,8.00E-08,0.01
+nbi_0137,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,33.6,+,4.00E-07,0.11
+nbi_0137,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,33.6,+,2.00E-06,0.12
+nbi_0137,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,33.6,+,1.00E-05,0.04
+nbi_0137,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,33.6,+,5.00E-05,0.07
+nbi_0137,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,33.6,+,0.00025,0.14
+nbi_0138,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.5,+,1.60E-08,0.12
+nbi_0138,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.5,+,8.00E-08,0.18
+nbi_0138,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.5,+,4.00E-07,0.24
+nbi_0138,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.5,+,2.00E-06,0.14
+nbi_0138,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.5,+,1.00E-05,0.13
+nbi_0138,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.5,+,5.00E-05,0.13
+nbi_0138,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.5,+,0.00025,0.36
+nbi_0139,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,10.2,+,1.60E-08,0.18
+nbi_0139,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,10.2,+,8.00E-08,0.11
+nbi_0139,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,10.2,+,4.00E-07,0.04
+nbi_0139,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,10.2,+,2.00E-06,0.02
+nbi_0139,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,10.2,+,1.00E-05,0.17
+nbi_0139,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,10.2,+,5.00E-05,0.17
+nbi_0139,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,10.2,+,0.00025,0.25
+nbi_0140,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.9,-,1.60E-08,0.17
+nbi_0140,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.9,-,8.00E-08,0.12
+nbi_0140,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.9,-,4.00E-07,0.2
+nbi_0140,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.9,-,2.00E-06,0.08
+nbi_0140,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.9,-,1.00E-05,0.06
+nbi_0140,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.9,-,5.00E-05,0.12
+nbi_0140,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,4.9,-,0.00025,0.04
+nbi_0147,cellulose,cellulose,N/A,unknown,fibrous,18,0,2.00E-06,0.03
+nbi_0147,cellulose,cellulose,N/A,unknown,fibrous,18,0,1.00E-05,0.03
+nbi_0147,cellulose,cellulose,N/A,unknown,fibrous,18,0,5.00E-05,0.02
+nbi_0147,cellulose,cellulose,N/A,unknown,fibrous,18,0,0.00025,0.7
+nbi_0147,cellulose,cellulose,N/A,unknown,fibrous,18,0,0.005,1
+nbi_0148,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,2.00E-06,0.02
+nbi_0148,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,1.00E-05,0.04
+nbi_0148,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,5.00E-05,0.04
+nbi_0148,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,0.00025,0.11
+nbi_0148,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,0.005,0.29
+nbi_0149,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,2.00E-06,0.04
+nbi_0149,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,1.00E-05,0.02
+nbi_0149,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,5.00E-05,0.04
+nbi_0149,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,0.00025,0.12
+nbi_0149,cellulose,cellulose,N/A,carboxyl,fibrous,18,-,0.005,0.97
+nbi_0150,cellulose,cellulose,N/A,carboxyl,fibrous,18,0,2.00E-07,0.04
+nbi_0150,cellulose,cellulose,N/A,carboxyl,fibrous,18,0,2.00E-06,0
+nbi_0150,cellulose,cellulose,N/A,carboxyl,fibrous,18,0,2.00E-05,0.06
+nbi_0150,cellulose,cellulose,N/A,carboxyl,fibrous,18,0,0.0002,0.03
+nbi_0150,cellulose,cellulose,N/A,carboxyl,fibrous,18,0,0.055,0.85
+nbi_0151,cellulose,cellulose,N/A,taurine,fibrous,18,0,2.00E-07,0.04
+nbi_0151,cellulose,cellulose,N/A,taurine,fibrous,18,0,2.00E-06,0.06
+nbi_0151,cellulose,cellulose,N/A,taurine,fibrous,18,0,2.00E-05,0.04
+nbi_0151,cellulose,cellulose,N/A,taurine,fibrous,18,0,0.0002,0.04
+nbi_0151,cellulose,cellulose,N/A,taurine,fibrous,18,0,0.0056,0.4
+nbi_0152,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,2.00E-07,0.02
+nbi_0152,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,2.00E-06,0.05
+nbi_0152,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,2.00E-05,0.07
+nbi_0152,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,0.0002,0.07
+nbi_0152,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,0.0069,0.56
+nbi_0153,cellulose,cellulose,N/A,taurine,fibrous,18,0,2.00E-07,0.06
+nbi_0153,cellulose,cellulose,N/A,taurine,fibrous,18,0,2.00E-06,0.07
+nbi_0153,cellulose,cellulose,N/A,taurine,fibrous,18,0,2.00E-05,0.13
+nbi_0153,cellulose,cellulose,N/A,taurine,fibrous,18,0,0.0002,0.01
+nbi_0153,cellulose,cellulose,N/A,taurine,fibrous,18,0,0.00795,0.53
+nbi_0154,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,2.00E-07,0.05
+nbi_0154,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,2.00E-06,0.07
+nbi_0154,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,2.00E-05,0.08
+nbi_0154,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,0.0002,0.1
+nbi_0154,cellulose,cellulose,N/A,2-(2-mercaptoethoxy)ethanol [MEE],fibrous,18,0,0.00815,0.94
+nbi_0155,cellulose,cellulose,N/A,taurine,fibrous,18,0,2.00E-07,0
+nbi_0155,cellulose,cellulose,N/A,taurine,fibrous,18,0,2.00E-06,0
+nbi_0155,cellulose,cellulose,N/A,taurine,fibrous,18,0,2.00E-05,0.04
+nbi_0155,cellulose,cellulose,N/A,taurine,fibrous,18,0,0.0002,0.11
+nbi_0155,cellulose,cellulose,N/A,taurine,fibrous,18,0,0.002,0.25
+nbi_0156,cellulose,cellulose,N/A,ethylenediamine,fibrous,18,0,2.00E-07,0.02
+nbi_0156,cellulose,cellulose,N/A,ethylenediamine,fibrous,18,0,2.00E-06,0
+nbi_0156,cellulose,cellulose,N/A,ethylenediamine,fibrous,18,0,2.00E-05,0.07
+nbi_0156,cellulose,cellulose,N/A,ethylenediamine,fibrous,18,0,0.0002,0.1
+nbi_0156,cellulose,cellulose,N/A,ethylenediamine,fibrous,18,0,0.002,0.38
+nbi_0157,cellulose,cellulose,N/A,hexamethylene diamine,fibrous,18,0,2.00E-07,0.02
+nbi_0157,cellulose,cellulose,N/A,hexamethylene diamine,fibrous,18,0,2.00E-06,0.01
+nbi_0157,cellulose,cellulose,N/A,hexamethylene diamine,fibrous,18,0,2.00E-05,0.07
+nbi_0157,cellulose,cellulose,N/A,hexamethylene diamine,fibrous,18,0,0.0002,0.14
+nbi_0157,cellulose,cellulose,N/A,hexamethylene diamine,fibrous,18,0,0.002,0.28
+nbi_0158,cellulose,cellulose,N/A,carboxyl,fibrous,76,-,2.00E-07,0
+nbi_0158,cellulose,cellulose,N/A,carboxyl,fibrous,76,-,2.00E-06,0.03
+nbi_0158,cellulose,cellulose,N/A,carboxyl,fibrous,76,-,2.00E-05,0.08
+nbi_0158,cellulose,cellulose,N/A,carboxyl,fibrous,76,-,0.0002,0.08
+nbi_0158,cellulose,cellulose,N/A,carboxyl,fibrous,76,-,0.002,0.32
+nbi_0159,metal,gold [Au],N/A,ascorbic acid,rod,5,0,4.80E-08,0.03
+nbi_0159,metal,gold [Au],N/A,ascorbic acid,rod,5,0,2.40E-07,0.09
+nbi_0159,metal,gold [Au],N/A,ascorbic acid,rod,5,0,1.00E-06,0.11
+nbi_0159,metal,gold [Au],N/A,ascorbic acid,rod,5,0,6.00E-06,1
+nbi_0159,metal,gold [Au],N/A,ascorbic acid,rod,5,0,3.00E-05,1
+nbi_0160,metal,gold [Au],N/A,ascorbic acid,rod,5,0,4.80E-08,0.08
+nbi_0160,metal,gold [Au],N/A,ascorbic acid,rod,5,0,2.40E-07,0.12
+nbi_0160,metal,gold [Au],N/A,ascorbic acid,rod,5,0,1.00E-06,0.35
+nbi_0160,metal,gold [Au],N/A,ascorbic acid,rod,5,0,6.00E-06,1
+nbi_0160,metal,gold [Au],N/A,ascorbic acid,rod,5,0,3.00E-05,1
+nbi_0161,metal,gold [Au],N/A,ascorbic acid,rod,5,0,4.80E-08,0.05
+nbi_0161,metal,gold [Au],N/A,ascorbic acid,rod,5,0,2.40E-07,0.12
+nbi_0161,metal,gold [Au],N/A,ascorbic acid,rod,5,0,1.00E-06,1
+nbi_0161,metal,gold [Au],N/A,ascorbic acid,rod,5,0,6.00E-06,1
+nbi_0161,metal,gold [Au],N/A,ascorbic acid,rod,5,0,3.00E-05,1
+nbi_0162,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,1.60E-08,0.04
+nbi_0162,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,8.00E-08,0
+nbi_0162,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,4.00E-07,0.04
+nbi_0162,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,2.00E-06,0.05
+nbi_0162,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,1.00E-05,0.24
+nbi_0162,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,5.00E-05,0.13
+nbi_0162,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,0.00025,0.16
+nbi_0163,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,1.60E-08,0
+nbi_0163,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,8.00E-08,0.07
+nbi_0163,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,4.00E-07,0.06
+nbi_0163,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,2.00E-06,0.1
+nbi_0163,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,1.00E-05,0.11
+nbi_0163,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,5.00E-05,0.2
+nbi_0163,metal oxide,holmium oxide [Ho2O3],N/A,unknown,unknown,50,0,0.00025,0.24
+nbi_0164,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,1.60E-08,0.11
+nbi_0164,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,8.00E-08,0.1
+nbi_0164,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,4.00E-07,0.18
+nbi_0164,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,2.00E-06,0.06
+nbi_0164,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,1.00E-05,0.22
+nbi_0164,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,5.00E-05,0.14
+nbi_0164,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,0.00025,0.12
+nbi_0165,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,1.60E-08,0.24
+nbi_0165,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,8.00E-08,0.18
+nbi_0165,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,4.00E-07,0.28
+nbi_0165,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,2.00E-06,0.21
+nbi_0165,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,1.00E-05,0.24
+nbi_0165,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,5.00E-05,0.2
+nbi_0165,metal oxide,titanium dioxide [TiO2],manganese [mn],unknown,irregular-angular,11,0,0.00025,0.19
+nbi_0166,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,11,0,1.60E-08,0.07
+nbi_0166,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,11,0,8.00E-08,0.04
+nbi_0166,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,11,0,4.00E-07,0.11
+nbi_0166,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,11,0,2.00E-06,0.13
+nbi_0166,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,11,0,1.00E-05,0.05
+nbi_0166,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,11,0,5.00E-05,0.01
+nbi_0166,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,11,0,0.00025,0.09
+nbi_0167,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,1.60E-08,0.03
+nbi_0167,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,8.00E-08,0.08
+nbi_0167,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,4.00E-07,0.18
+nbi_0167,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,2.00E-06,0.11
+nbi_0167,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,1.00E-05,0.11
+nbi_0167,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,5.00E-05,0.27
+nbi_0167,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,0.00025,1
+nbi_0168,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,1.60E-08,0.01
+nbi_0168,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,8.00E-08,0.11
+nbi_0168,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,4.00E-07,0.06
+nbi_0168,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,2.00E-06,0.05
+nbi_0168,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,1.00E-05,0.1
+nbi_0168,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,5.00E-05,0.24
+nbi_0168,metal oxide,samarium oxide [Sm2O3],N/A,unknown,unknown,50,0,0.00025,0.98
+nbi_0169,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,21,0,1.60E-08,0
+nbi_0169,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,21,0,8.00E-08,0.09
+nbi_0169,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,21,0,4.00E-07,0.08
+nbi_0169,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,21,0,2.00E-06,0.12
+nbi_0169,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,21,0,1.00E-05,0.1
+nbi_0169,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,21,0,5.00E-05,0.01
+nbi_0169,metal oxide,titanium dioxide [TiO2],N/A,unknown,irregular-angular,21,0,0.00025,0.12
+nbi_0170,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,0,0,1.60E-08,0
+nbi_0170,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,0,0,8.00E-08,0
+nbi_0170,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,0,0,4.00E-07,0.01
+nbi_0170,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,0,0,2.00E-06,0.05
+nbi_0170,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,0,0,1.00E-05,0.01
+nbi_0170,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,0,0,5.00E-05,0.04
+nbi_0170,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,0,0,0.00025,0
+nbi_0171,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,1,0,1.60E-08,0.04
+nbi_0171,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,1,0,8.00E-08,0.06
+nbi_0171,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,1,0,4.00E-07,0.09
+nbi_0171,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,1,0,2.00E-06,0
+nbi_0171,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,1,0,1.00E-05,0
+nbi_0171,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,1,0,5.00E-05,0.05
+nbi_0171,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,1,0,0.00025,0
+nbi_0172,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,2,0,1.60E-08,0.01
+nbi_0172,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,2,0,8.00E-08,0.11
+nbi_0172,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,2,0,4.00E-07,0.15
+nbi_0172,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,2,0,2.00E-06,0.06
+nbi_0172,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,2,0,1.00E-05,0.18
+nbi_0172,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,2,0,5.00E-05,0
+nbi_0172,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,2,0,0.00025,0.04
+nbi_0173,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,3,0,1.60E-08,0
+nbi_0173,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,3,0,8.00E-08,0.01
+nbi_0173,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,3,0,4.00E-07,0
+nbi_0173,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,3,0,2.00E-06,0.03
+nbi_0173,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,3,0,1.00E-05,0.01
+nbi_0173,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,3,0,5.00E-05,0.05
+nbi_0173,dendrimer,thiophosphoryl-pmmh,N/A,aldehyde,dendritic,3,0,0.00025,0
+nbi_0174,dendrimer,thiophosphoryl-pmmh,N/A,dichlorophosphinothioyl,dendritic,10,0,1.60E-08,0.1
+nbi_0174,dendrimer,thiophosphoryl-pmmh,N/A,dichlorophosphinothioyl,dendritic,10,0,8.00E-08,0.11
+nbi_0174,dendrimer,thiophosphoryl-pmmh,N/A,dichlorophosphinothioyl,dendritic,10,0,4.00E-07,0.08
+nbi_0174,dendrimer,thiophosphoryl-pmmh,N/A,dichlorophosphinothioyl,dendritic,10,0,2.00E-06,0.05
+nbi_0174,dendrimer,thiophosphoryl-pmmh,N/A,dichlorophosphinothioyl,dendritic,10,0,1.00E-05,0.08
+nbi_0174,dendrimer,thiophosphoryl-pmmh,N/A,dichlorophosphinothioyl,dendritic,10,0,5.00E-05,0.01
+nbi_0174,dendrimer,thiophosphoryl-pmmh,N/A,dichlorophosphinothioyl,dendritic,10,0,0.00025,0.1
+nbi_0175,carbon,carbon [c60],N/A,unknown,spherical,0.8,0,1.60E-08,0
+nbi_0175,carbon,carbon [c60],N/A,unknown,spherical,0.8,0,8.00E-08,0.02
+nbi_0175,carbon,carbon [c60],N/A,unknown,spherical,0.8,0,4.00E-07,0
+nbi_0175,carbon,carbon [c60],N/A,unknown,spherical,0.8,0,2.00E-06,0
+nbi_0175,carbon,carbon [c60],N/A,unknown,spherical,0.8,0,1.00E-05,0.02
+nbi_0175,carbon,carbon [c60],N/A,unknown,spherical,0.8,0,5.00E-05,0
+nbi_0175,carbon,carbon [c60],N/A,unknown,spherical,0.8,0,0.00025,0
+nbi_0176,metal oxide,europium (iii) oxide [eu2o3],N/A,unknown,spherical,70,0,1.60E-08,0
+nbi_0176,metal oxide,europium (iii) oxide [eu2o3],N/A,unknown,spherical,70,0,8.00E-08,0.04
+nbi_0176,metal oxide,europium (iii) oxide [eu2o3],N/A,unknown,spherical,70,0,4.00E-07,0.07
+nbi_0176,metal oxide,europium (iii) oxide [eu2o3],N/A,unknown,spherical,70,0,2.00E-06,0.01
+nbi_0176,metal oxide,europium (iii) oxide [eu2o3],N/A,unknown,spherical,70,0,1.00E-05,0.05
+nbi_0176,metal oxide,europium (iii) oxide [eu2o3],N/A,unknown,spherical,70,0,5.00E-05,0.11
+nbi_0176,metal oxide,europium (iii) oxide [eu2o3],N/A,unknown,spherical,70,0,0.00025,0.1
+nbi_0177,metal,platinum [pt],N/A,unknown,spherical,3,0,1.60E-08,0.09
+nbi_0177,metal,platinum [pt],N/A,unknown,spherical,3,0,8.00E-08,0.12
+nbi_0177,metal,platinum [pt],N/A,unknown,spherical,3,0,4.00E-07,0.12
+nbi_0177,metal,platinum [pt],N/A,unknown,spherical,3,0,2.00E-06,0
+nbi_0177,metal,platinum [pt],N/A,unknown,spherical,3,0,1.00E-05,0.12
+nbi_0177,metal,platinum [pt],N/A,unknown,spherical,3,0,5.00E-05,0.05
+nbi_0177,metal,platinum [pt],N/A,unknown,spherical,3,0,0.00025,0
+nbi_0178,cellulose,cellulose,N/A,rhodamine,fibrous,18,0,1.60E-08,0.09
+nbi_0178,cellulose,cellulose,N/A,rhodamine,fibrous,18,0,8.00E-08,0.12
+nbi_0178,cellulose,cellulose,N/A,rhodamine,fibrous,18,0,4.00E-07,0.12
+nbi_0178,cellulose,cellulose,N/A,rhodamine,fibrous,18,0,2.00E-06,0
+nbi_0178,cellulose,cellulose,N/A,rhodamine,fibrous,18,0,1.00E-05,0.12
+nbi_0178,cellulose,cellulose,N/A,rhodamine,fibrous,18,0,5.00E-05,0.05
+nbi_0178,cellulose,cellulose,N/A,rhodamine,fibrous,18,0,0.00025,0
+nbi_0179,metal oxide,titanium dioxide [TiO2],N/A,unknown,unknown,100,0,1.60E-08,0.04
+nbi_0179,metal oxide,titanium dioxide [TiO2],N/A,unknown,unknown,100,0,8.00E-08,0.07
+nbi_0179,metal oxide,titanium dioxide [TiO2],N/A,unknown,unknown,100,0,4.00E-07,0.06
+nbi_0179,metal oxide,titanium dioxide [TiO2],N/A,unknown,unknown,100,0,2.00E-06,0
+nbi_0179,metal oxide,titanium dioxide [TiO2],N/A,unknown,unknown,100,0,1.00E-05,0.07
+nbi_0179,metal oxide,titanium dioxide [TiO2],N/A,unknown,unknown,100,0,5.00E-05,0.02
+nbi_0179,metal oxide,titanium dioxide [TiO2],N/A,unknown,unknown,100,0,0.00025,0
+nbi_0181,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,spherical,5,-,1.60E-08,0
+nbi_0181,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,spherical,5,-,8.00E-08,0.05
+nbi_0181,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,spherical,5,-,4.00E-07,0.04
+nbi_0181,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,spherical,5,-,2.00E-06,0.12
+nbi_0181,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,spherical,5,-,1.00E-05,0.05
+nbi_0181,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,spherical,5,-,5.00E-05,0
+nbi_0181,dendrimer,"1,4-diaminobutane [DAB]",N/A,succinamic acid,spherical,5,-,0.00025,0.02
+nbi_0182,metal oxide,aluminum oxide [Al2O3],zinc oxide [ZnO],unknown,unknown,15,+,1.60E-08,0.12
+nbi_0182,metal oxide,aluminum oxide [Al2O3],zinc oxide [ZnO],unknown,unknown,15,+,8.00E-08,0.06
+nbi_0182,metal oxide,aluminum oxide [Al2O3],zinc oxide [ZnO],unknown,unknown,15,+,4.00E-07,0.08
+nbi_0182,metal oxide,aluminum oxide [Al2O3],zinc oxide [ZnO],unknown,unknown,15,+,2.00E-06,0.09
+nbi_0182,metal oxide,aluminum oxide [Al2O3],zinc oxide [ZnO],unknown,unknown,15,+,1.00E-05,0.03
+nbi_0182,metal oxide,aluminum oxide [Al2O3],zinc oxide [ZnO],unknown,unknown,15,+,5.00E-05,0
+nbi_0182,metal oxide,aluminum oxide [Al2O3],zinc oxide [ZnO],unknown,unknown,15,+,0.00025,0.23
+nbi_0183,metal oxide,europium oxide [eu2o3],N/A,unknown,irregular-angular,70,0,1.60E-08,0.01
+nbi_0183,metal oxide,europium oxide [eu2o3],N/A,unknown,irregular-angular,70,0,8.00E-08,0
+nbi_0183,metal oxide,europium oxide [eu2o3],N/A,unknown,irregular-angular,70,0,4.00E-07,0.01
+nbi_0183,metal oxide,europium oxide [eu2o3],N/A,unknown,irregular-angular,70,0,2.00E-06,0.02
+nbi_0183,metal oxide,europium oxide [eu2o3],N/A,unknown,irregular-angular,70,0,1.00E-05,0.09
+nbi_0183,metal oxide,europium oxide [eu2o3],N/A,unknown,irregular-angular,70,0,5.00E-05,0.07
+nbi_0183,metal oxide,europium oxide [eu2o3],N/A,unknown,irregular-angular,70,0,0.00025,0.07
+nbi_0184,metal,gold [Au],N/A,unknown,spherical,14,-,1.60E-08,0.08
+nbi_0184,metal,gold [Au],N/A,unknown,spherical,14,-,8.00E-08,0
+nbi_0184,metal,gold [Au],N/A,unknown,spherical,14,-,4.00E-07,0.03
+nbi_0184,metal,gold [Au],N/A,unknown,spherical,14,-,2.00E-06,0.02
+nbi_0184,metal,gold [Au],N/A,unknown,spherical,14,-,1.00E-05,0
+nbi_0184,metal,gold [Au],N/A,unknown,spherical,14,-,5.00E-05,0.01
+nbi_0184,metal,gold [Au],N/A,unknown,spherical,14,-,0.00025,0.01
+nbi_0185,metal oxide,neodymium oxide [nd2o3],N/A,unknown,irregular-angular,50,0,1.60E-08,0.04
+nbi_0185,metal oxide,neodymium oxide [nd2o3],N/A,unknown,irregular-angular,50,0,8.00E-08,0.02
+nbi_0185,metal oxide,neodymium oxide [nd2o3],N/A,unknown,irregular-angular,50,0,4.00E-07,0
+nbi_0185,metal oxide,neodymium oxide [nd2o3],N/A,unknown,irregular-angular,50,0,2.00E-06,0
+nbi_0185,metal oxide,neodymium oxide [nd2o3],N/A,unknown,irregular-angular,50,0,1.00E-05,0.15
+nbi_0185,metal oxide,neodymium oxide [nd2o3],N/A,unknown,irregular-angular,50,0,5.00E-05,0.07
+nbi_0185,metal oxide,neodymium oxide [nd2o3],N/A,unknown,irregular-angular,50,0,0.00025,0.06
+nbi_0186,metal,silver [Ag],N/A,unknown,spherical,2,-,1.60E-08,0
+nbi_0186,metal,silver [Ag],N/A,unknown,spherical,2,-,8.00E-08,0.13
+nbi_0186,metal,silver [Ag],N/A,unknown,spherical,2,-,4.00E-07,0.09
+nbi_0186,metal,silver [Ag],N/A,unknown,spherical,2,-,2.00E-06,0.12
+nbi_0186,metal,silver [Ag],N/A,unknown,spherical,2,-,1.00E-05,0.88
+nbi_0186,metal,silver [Ag],N/A,unknown,spherical,2,-,5.00E-05,1
+nbi_0186,metal,silver [Ag],N/A,unknown,spherical,2,-,0.00025,1
+nbi_0187,metal oxide,zinc oxide [ZnO],N/A,unknown,regular-angular,70,0,1.60E-08,0
+nbi_0187,metal oxide,zinc oxide [ZnO],N/A,unknown,regular-angular,70,0,8.00E-08,0
+nbi_0187,metal oxide,zinc oxide [ZnO],N/A,unknown,regular-angular,70,0,4.00E-07,0.01
+nbi_0187,metal oxide,zinc oxide [ZnO],N/A,unknown,regular-angular,70,0,2.00E-06,0.04
+nbi_0187,metal oxide,zinc oxide [ZnO],N/A,unknown,regular-angular,70,0,1.00E-05,0.39
+nbi_0187,metal oxide,zinc oxide [ZnO],N/A,unknown,regular-angular,70,0,5.00E-05,0.95
+nbi_0187,metal oxide,zinc oxide [ZnO],N/A,unknown,regular-angular,70,0,0.00025,0.97
+nbi_0189,semiconductor,silicon dioxide [SiO2],N/A,unknown,spherical,12,-,1.60E-08,0
+nbi_0189,semiconductor,silicon dioxide [SiO2],N/A,unknown,spherical,12,-,8.00E-08,0
+nbi_0189,semiconductor,silicon dioxide [SiO2],N/A,unknown,spherical,12,-,4.00E-07,0.12
+nbi_0189,semiconductor,silicon dioxide [SiO2],N/A,unknown,spherical,12,-,2.00E-06,0
+nbi_0189,semiconductor,silicon dioxide [SiO2],N/A,unknown,spherical,12,-,1.00E-05,0.04
+nbi_0189,semiconductor,silicon dioxide [SiO2],N/A,unknown,spherical,12,-,5.00E-05,0
+nbi_0189,semiconductor,silicon dioxide [SiO2],N/A,unknown,spherical,12,-,0.00025,0.04
+nbi_0193,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,1.60E-08,0.08
+nbi_0193,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,8.00E-08,0
+nbi_0193,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,4.00E-07,0.01
+nbi_0193,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,2.00E-06,0
+nbi_0193,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,1.00E-05,0
+nbi_0193,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,5.00E-05,0
+nbi_0193,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,0.00025,0.03
+nbi_0194,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,10,0,1.60E-08,0.01
+nbi_0194,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,10,0,8.00E-08,0.18
+nbi_0194,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,10,0,4.00E-07,0.17
+nbi_0194,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,10,0,2.00E-06,0.04
+nbi_0194,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,10,0,1.00E-05,0.12
+nbi_0194,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,10,0,5.00E-05,0
+nbi_0194,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,10,0,0.00025,0.38
+nbi_0195,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,1.60E-08,0.25
+nbi_0195,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,8.00E-08,0.13
+nbi_0195,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,4.00E-07,0
+nbi_0195,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,2.00E-06,0.11
+nbi_0195,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,1.00E-05,0.03
+nbi_0195,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,5.00E-05,0.04
+nbi_0195,metal oxide,aluminum oxide [Al2O3],N/A,unknown,spherical,30,0,0.00025,0.01
+nbi_0198,metal oxide,antimony (iii) oxide [sb2o3],N/A,unknown,spherical,125,0,1.60E-08,0
+nbi_0198,metal oxide,antimony (iii) oxide [sb2o3],N/A,unknown,spherical,125,0,8.00E-08,0
+nbi_0198,metal oxide,antimony (iii) oxide [sb2o3],N/A,unknown,spherical,125,0,4.00E-07,0.04
+nbi_0198,metal oxide,antimony (iii) oxide [sb2o3],N/A,unknown,spherical,125,0,2.00E-06,0.08
+nbi_0198,metal oxide,antimony (iii) oxide [sb2o3],N/A,unknown,spherical,125,0,1.00E-05,0.01
+nbi_0198,metal oxide,antimony (iii) oxide [sb2o3],N/A,unknown,spherical,125,0,5.00E-05,0
+nbi_0198,metal oxide,antimony (iii) oxide [sb2o3],N/A,unknown,spherical,125,0,0.00025,0
+nbi_0199,cellulose,cellulose,N/A,unknown,unknown,18,0,3.20E-07,0.01
+nbi_0199,cellulose,cellulose,N/A,unknown,unknown,18,0,1.00E-06,0.04
+nbi_0199,cellulose,cellulose,N/A,unknown,unknown,18,0,8.00E-06,0.01
+nbi_0199,cellulose,cellulose,N/A,unknown,unknown,18,0,4.00E-05,0.01
+nbi_0199,cellulose,cellulose,N/A,unknown,unknown,18,0,0.0002,0.05
+nbi_0199,cellulose,cellulose,N/A,unknown,unknown,18,0,0.001,0.01
+nbi_0199,cellulose,cellulose,N/A,unknown,unknown,18,0,0.005,0.07
+nbi_0200,cellulose,cellulose,N/A,"2-,2-aminoethoxyethanol [aee]",fibrous,60,0,3.20E-07,0.05
+nbi_0200,cellulose,cellulose,N/A,"2-,2-aminoethoxyethanol [aee]",fibrous,60,0,1.00E-06,0
+nbi_0200,cellulose,cellulose,N/A,"2-,2-aminoethoxyethanol [aee]",fibrous,60,0,8.00E-06,0
+nbi_0200,cellulose,cellulose,N/A,"2-,2-aminoethoxyethanol [aee]",fibrous,60,0,4.00E-05,0.05
+nbi_0200,cellulose,cellulose,N/A,"2-,2-aminoethoxyethanol [aee]",fibrous,60,0,0.0002,1
+nbi_0200,cellulose,cellulose,N/A,"2-,2-aminoethoxyethanol [aee]",fibrous,60,0,0.001,1
+nbi_0200,cellulose,cellulose,N/A,"2-,2-aminoethoxyethanol [aee]",fibrous,60,0,0.005,1
+nbi_0201,cellulose,cellulose,N/A,hydroxypropyl-trimethylammonium chloride,fibrous,54,+,2.75E-07,0.04
+nbi_0201,cellulose,cellulose,N/A,hydroxypropyl-trimethylammonium chloride,fibrous,54,+,1.00E-06,0.12
+nbi_0201,cellulose,cellulose,N/A,hydroxypropyl-trimethylammonium chloride,fibrous,54,+,6.00E-06,0.08
+nbi_0201,cellulose,cellulose,N/A,hydroxypropyl-trimethylammonium chloride,fibrous,54,+,3.40E-05,0.05
+nbi_0201,cellulose,cellulose,N/A,hydroxypropyl-trimethylammonium chloride,fibrous,54,+,0.000172,0.01
+nbi_0201,cellulose,cellulose,N/A,hydroxypropyl-trimethylammonium chloride,fibrous,54,+,0.00086,0.1
+nbi_0201,cellulose,cellulose,N/A,hydroxypropyl-trimethylammonium chloride,fibrous,54,+,0.0043,0.02
+nbi_0202,metal oxide,copper oxide [CuO],N/A,unknown,unknown,25,-,1.60E-08,0.04
+nbi_0202,metal oxide,copper oxide [CuO],N/A,unknown,unknown,25,-,8.00E-08,0.13
+nbi_0202,metal oxide,copper oxide [CuO],N/A,unknown,unknown,25,-,4.00E-07,0.17
+nbi_0202,metal oxide,copper oxide [CuO],N/A,unknown,unknown,25,-,2.00E-06,0.05
+nbi_0202,metal oxide,copper oxide [CuO],N/A,unknown,unknown,25,-,1.00E-05,0.09
+nbi_0202,metal oxide,copper oxide [CuO],N/A,unknown,unknown,25,-,5.00E-05,0.35
+nbi_0202,metal oxide,copper oxide [CuO],N/A,unknown,unknown,25,-,0.00025,0.45
+nbi_0204,semiconductor,silica [si],N/A,silanol,spherical,82.5,-,5.00E-07,0.04
+nbi_0204,semiconductor,silica [si],N/A,silanol,spherical,82.5,-,1.00E-06,0.03
+nbi_0204,semiconductor,silica [si],N/A,silanol,spherical,82.5,-,5.00E-06,0.03
+nbi_0204,semiconductor,silica [si],N/A,silanol,spherical,82.5,-,1.00E-05,0.03
+nbi_0204,semiconductor,silica [si],N/A,silanol,spherical,82.5,-,2.50E-05,0.05
+nbi_0204,semiconductor,silica [si],N/A,silanol,spherical,82.5,-,5.00E-05,0.06
+nbi_0204,semiconductor,silica [si],N/A,silanol,spherical,82.5,-,1.00E-04,0.04
+nbi_0205,carbon,carbon [c],N/A,unknown,cylindrical,25,0,1.60E-08,0.04
+nbi_0205,carbon,carbon [c],N/A,unknown,cylindrical,25,0,8.00E-08,0.09
+nbi_0205,carbon,carbon [c],N/A,unknown,cylindrical,25,0,4.00E-07,0
+nbi_0205,carbon,carbon [c],N/A,unknown,cylindrical,25,0,2.00E-06,0.12
+nbi_0205,carbon,carbon [c],N/A,unknown,cylindrical,25,0,1.00E-05,0.09
+nbi_0205,carbon,carbon [c],N/A,unknown,cylindrical,25,0,5.00E-05,0.08
+nbi_0205,carbon,carbon [c],N/A,unknown,cylindrical,25,0,0.00025,0.21
+nbi_0206,carbon,carbon [c],N/A,unknown,cylindrical,4.5,0,1.60E-08,0.04
+nbi_0206,carbon,carbon [c],N/A,unknown,cylindrical,4.5,0,8.00E-08,0.09
+nbi_0206,carbon,carbon [c],N/A,unknown,cylindrical,4.5,0,4.00E-07,0
+nbi_0206,carbon,carbon [c],N/A,unknown,cylindrical,4.5,0,2.00E-06,0.12
+nbi_0206,carbon,carbon [c],N/A,unknown,cylindrical,4.5,0,1.00E-05,0.09
+nbi_0206,carbon,carbon [c],N/A,unknown,cylindrical,4.5,0,5.00E-05,0.08
+nbi_0206,carbon,carbon [c],N/A,unknown,cylindrical,4.5,0,0.00025,0.21
+nbi_0207,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,1.60E-08,0.04
+nbi_0207,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,8.00E-08,0.12
+nbi_0207,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,4.00E-08,0.24
+nbi_0207,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,2.00E-06,0.19
+nbi_0207,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,1.00E-05,0.39
+nbi_0207,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,5.00E-05,0.74
+nbi_0207,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,0.00025,0.97
+nbi_0208,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-07,0
+nbi_0208,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-06,0
+nbi_0208,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-05,0.05
+nbi_0208,metal,silver [Ag],N/A,amine,spherical,69.9,-,2.50E-05,0
+nbi_0208,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-05,0
+nbi_0208,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-04,0.09
+nbi_0209,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-07,0.08
+nbi_0209,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-06,0.06
+nbi_0209,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-05,0.06
+nbi_0209,metal,silver [Ag],N/A,amine,spherical,69.9,-,2.50E-05,0
+nbi_0209,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-05,0.05
+nbi_0209,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-04,0.79
+nbi_0211,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-07,0
+nbi_0211,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-06,0.04
+nbi_0211,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-05,0.09
+nbi_0211,metal,silver [Ag],N/A,amine,spherical,69.9,-,2.50E-05,0.04
+nbi_0211,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-05,0.08
+nbi_0211,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-04,0.04
+nbi_0212,carbon,carbon [c],N/A,unknown,cylindrical,18,-,1.60E-08,0
+nbi_0212,carbon,carbon [c],N/A,unknown,cylindrical,18,-,8.00E-08,0.02
+nbi_0212,carbon,carbon [c],N/A,unknown,cylindrical,18,-,4.00E-07,0.05
+nbi_0212,carbon,carbon [c],N/A,unknown,cylindrical,18,-,2.00E-06,0.17
+nbi_0212,carbon,carbon [c],N/A,unknown,cylindrical,18,-,1.00E-05,0.05
+nbi_0212,carbon,carbon [c],N/A,unknown,cylindrical,18,-,5.00E-05,0.07
+nbi_0212,carbon,carbon [c],N/A,unknown,cylindrical,18,-,0.00025,0.54
+nbi_0213,metal oxide,"terbium (iii,iv) oxide [tb4o7]",N/A,unknown,unknown,50,0,1.60E-08,0.01
+nbi_0213,metal oxide,"terbium (iii,iv) oxide [tb4o7]",N/A,unknown,unknown,50,0,8.00E-08,0
+nbi_0213,metal oxide,"terbium (iii,iv) oxide [tb4o7]",N/A,unknown,unknown,50,0,4.00E-07,0.04
+nbi_0213,metal oxide,"terbium (iii,iv) oxide [tb4o7]",N/A,unknown,unknown,50,0,2.00E-06,0
+nbi_0213,metal oxide,"terbium (iii,iv) oxide [tb4o7]",N/A,unknown,unknown,50,0,1.00E-05,0.04
+nbi_0213,metal oxide,"terbium (iii,iv) oxide [tb4o7]",N/A,unknown,unknown,50,0,5.00E-05,0
+nbi_0213,metal oxide,"terbium (iii,iv) oxide [tb4o7]",N/A,unknown,unknown,50,0,0.00025,0.08
+nbi_0214,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,76,+,1.60E-08,0.04
+nbi_0214,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,76,+,8.00E-08,0.04
+nbi_0214,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,76,+,4.00E-07,0.05
+nbi_0214,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,76,+,2.00E-06,0.06
+nbi_0214,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,76,+,1.00E-05,0.51
+nbi_0214,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,76,+,5.00E-05,0.82
+nbi_0214,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,76,+,0.00025,1
+nbi_0215,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,1.60E-08,0
+nbi_0215,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,8.00E-08,0.02
+nbi_0215,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,4.00E-07,0.01
+nbi_0215,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,2.00E-06,0.04
+nbi_0215,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,1.00E-05,0.04
+nbi_0215,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,5.00E-05,0.05
+nbi_0215,metal oxide,zinc oxide [ZnO],N/A,unknown,unknown,63,0,0.00025,0.45
+nbi_0216,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-07,0.05
+nbi_0216,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-06,0.04
+nbi_0216,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-06,0.01
+nbi_0216,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-05,0.03
+nbi_0216,metal,silver [Ag],N/A,amine,spherical,69.9,-,2.50E-05,0.04
+nbi_0216,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-05,0
+nbi_0216,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-04,0.09
+nbi_0217,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-07,0.08
+nbi_0217,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-06,0.2
+nbi_0217,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-06,0.1
+nbi_0217,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-05,0.21
+nbi_0217,metal,silver [Ag],N/A,amine,spherical,69.9,-,2.50E-05,0.14
+nbi_0217,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-05,0.02
+nbi_0217,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-04,0.96
+nbi_0218,metal,silver [Ag],N/A,amine,spherical,20,-,1.00E-07,0.04
+nbi_0218,metal,silver [Ag],N/A,amine,spherical,20,-,5.00E-07,0.15
+nbi_0218,metal,silver [Ag],N/A,amine,spherical,20,-,1.00E-06,0.26
+nbi_0218,metal,silver [Ag],N/A,amine,spherical,20,-,5.00E-06,0.19
+nbi_0218,metal,silver [Ag],N/A,amine,spherical,20,-,1.00E-05,0.26
+nbi_0218,metal,silver [Ag],N/A,amine,spherical,20,-,2.50E-05,0.78
+nbi_0218,metal,silver [Ag],N/A,amine,spherical,20,-,5.00E-05,1
+nbi_0219,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-07,0
+nbi_0219,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-06,0.04
+nbi_0219,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-06,0
+nbi_0219,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-05,0
+nbi_0219,metal,silver [Ag],N/A,amine,spherical,69.9,-,2.50E-05,0.04
+nbi_0219,metal,silver [Ag],N/A,amine,spherical,69.9,-,5.00E-05,0.01
+nbi_0219,metal,silver [Ag],N/A,amine,spherical,69.9,-,1.00E-04,0.38
+nbi_0220,metal,silver [Ag],N/A,amine,spherical,67.7,+,5.00E-07,0.04
+nbi_0220,metal,silver [Ag],N/A,amine,spherical,67.7,+,1.00E-06,0.11
+nbi_0220,metal,silver [Ag],N/A,amine,spherical,67.7,+,5.00E-06,0.76
+nbi_0220,metal,silver [Ag],N/A,amine,spherical,67.7,+,1.00E-05,0.83
+nbi_0220,metal,silver [Ag],N/A,amine,spherical,67.7,+,2.50E-05,0.97
+nbi_0220,metal,silver [Ag],N/A,amine,spherical,67.7,+,5.00E-05,1
+nbi_0220,metal,silver [Ag],N/A,amine,spherical,67.7,+,1.00E-04,1
+nbi_0221,semiconductor,silica [si],N/A,amine,spherical,84,+,5.00E-07,0.11
+nbi_0221,semiconductor,silica [si],N/A,amine,spherical,84,+,1.00E-06,0.05
+nbi_0221,semiconductor,silica [si],N/A,amine,spherical,84,+,5.00E-06,0.07
+nbi_0221,semiconductor,silica [si],N/A,amine,spherical,84,+,1.00E-05,0.03
+nbi_0221,semiconductor,silica [si],N/A,amine,spherical,84,+,2.50E-05,0.06
+nbi_0221,semiconductor,silica [si],N/A,amine,spherical,84,+,5.00E-05,0.05
+nbi_0221,semiconductor,silica [si],N/A,amine,spherical,84,+,1.00E-04,0.73
+nbi_0222,metal,silver [Ag],N/A,amine,spherical,20,-,1.00E-07,0.18
+nbi_0222,metal,silver [Ag],N/A,amine,spherical,20,-,5.00E-07,0.14
+nbi_0222,metal,silver [Ag],N/A,amine,spherical,20,-,1.00E-06,0.06
+nbi_0222,metal,silver [Ag],N/A,amine,spherical,20,-,1.00E-05,0.32
+nbi_0222,metal,silver [Ag],N/A,amine,spherical,20,-,2.50E-05,0.71
+nbi_0222,metal,silver [Ag],N/A,amine,spherical,20,-,5.00E-05,0.85
