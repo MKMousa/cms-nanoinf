@@ -209,7 +209,7 @@ input_df = user_input_features()
 
 file = st.file_uploader("Or upload your input CSV file for multiple predictions", type=["csv"])
 st.markdown("""
-[Example CSV input file](./cms-nanoinf-example.csv)
+[Example CSV input file](https://raw.githubusercontent.com/MKMousa/cms-nanoinf/main/cms-nanoinf-example.csv)
 """)
 
 if file is not None:
